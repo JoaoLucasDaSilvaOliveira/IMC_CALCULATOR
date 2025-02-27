@@ -58,7 +58,7 @@ const Inputs = () => {
                         />
                     </label>
                 </div>
-                {erro && <p style={{color: "#FD0133", margin: "20px 0 -10px 0"}}>Preencha os campos vazios</p>}  
+                {erro && <p style={{color: "#FD0133", margin: "20px 0 0 0"}}>Preencha os campos vazios</p>}  
                 <div className="but">
                     <button onClick={handleShow}>Calcular</button>
                     <button onClick={handleClean} className="cleanBut">Limpar</button>
