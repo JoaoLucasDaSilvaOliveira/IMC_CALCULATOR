@@ -2,13 +2,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #1e1e32;
+  background-color: #1E1E32;
   padding: 1.5em;
 }
 @media screen and (max-width: 768px) {
   .container {
-    padding: 0.5em;
-    width: 90vw;
+    padding: 10vw;
     flex-direction: column;
   }
 }

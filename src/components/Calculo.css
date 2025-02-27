@@ -7,26 +7,25 @@ h1 {
   font-size: 2.5rem;
   margin-bottom: 0.6em;
 }
-td,
-th {
-  border-bottom: solid #3c3d4c 1px;
+td, th {
+  border-bottom: solid #3C3D4C 1px;
   padding: 5px;
 }
 td {
-  font-size: 0.9em;
+  font-size: .9em;
 }
 .backBut {
   margin-top: 1em;
 }
 /*classes pré-set*/
 .magreza {
-  color: #f7c629;
+  color: #F7C629;
 }
 .normal {
-  color: #50da4d;
+  color: #50DA4D;
 }
 .obes {
-  color: #ff5555;
+  color: #FF5555;
 }
 
 /* Responsive adjustments */
@@ -34,8 +33,7 @@ td {
   h1 {
     font-size: 2rem;
   }
-  td,
-  th {
+  td, th {
     font-size: 0.8em;
   }
   .backBut {
