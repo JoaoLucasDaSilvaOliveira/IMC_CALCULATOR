@@ -41,7 +41,7 @@ const Inputs = () => {
     <>
         {!showcalculo && (
             <div>
-                <h2 style={{color: "red"}}>Caluladora de IMC</h2>
+                <h2>Caluladora de IMC</h2>
                 <div className="inputs">
                     <label>
                         <p>Altura:</p>
